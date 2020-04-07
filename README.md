@@ -1,2 +1,2 @@
 # Pixcan
-Replicate Pixel-Art Game Mobile App
+A Game about replicating Pixel-Art
